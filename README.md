@@ -1,3 +1,3 @@
 # Web-UI-Tristan-Boudreau
 
-FriendFinder is an app that allows a user to make friends and build plutonic relationships on a platform similar to the dating apps they're used to seeing. 
+FriendFinder is an app that allows a user to make friends and build plutonic relationships on a platform similar to the dating apps they're used to seeing. It was written primarily in HTML, CSS and React. We believe that the environment of plutonic friendships has not evolved in the same way that the environment of romantic relationships has, which is why we built FriendFrinder. Why should it be so much easier to find love than friendship?
